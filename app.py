@@ -2,7 +2,7 @@ import streamlit as st
 import yfinance as yf
 import numpy as np
 import pandas as pd
-from arch import arch_model
+from pip  import arch_model
 import plotly.express as px
 from datetime import datetime, timedelta
 
